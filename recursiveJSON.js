@@ -36,7 +36,7 @@
 	    }
 	}
 
-	recursiveGetProperty(json, 'location', function(obj) {
+	recursiveGetProperty(json, 'params11', function(obj) {
 	    console.debug(obj);
 	});
 </script>
